@@ -1,0 +1,19 @@
+variable,category,sortorder
+Age,Aged 4 years and under,0
+Age,Aged 5 to 9 years,1
+Age,Aged 10 to 15 years,2
+Age,Aged 16 to 19 years,3
+Age,Aged 20 to 24 years,4
+Age,Aged 25 to 34 years,5
+Age,Aged 35 to 49 years,6
+Age,Aged 50 to 64 years,7
+Age,Aged 65 to 74 years,8
+Age,Aged 75 to 84 years,9
+Age,Aged 85 years and over,10
+Ethnic group,"Asian, Asian British or Asian Welsh",0
+Ethnic group,"Black, Black British, Black Welsh, Caribbean or African",1
+Ethnic group,Mixed or Multiple ethnic groups,2
+Ethnic group,White,3
+Ethnic group,Other ethnic group,4
+Sex,Female,0
+Sex,Male,1
