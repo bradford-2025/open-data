@@ -15,5 +15,14 @@ Ethnic group,"Black, Black British, Black Welsh, Caribbean or African",1
 Ethnic group,Mixed or Multiple ethnic groups,2
 Ethnic group,White,3
 Ethnic group,Other ethnic group,4
+General health,Very good health,0
+General health,Good health,1
+General health,Fair health,2
+General health,Bad health,3
+General health,Very bad health,4
+Household language (English and Welsh),"All adults in household have English in England, or English or Welsh in Wales as a main language",0
+Household language (English and Welsh),"At least one but not all adults in household have English in England, or English or Welsh in Wales as a main language",1
+Household language (English and Welsh),"No adults in household, but at least one person aged 3 to 15 years, has English in England or English or Welsh in Wales as a main language",2
+Household language (English and Welsh),"No people in household have English in England, or English or Welsh in Wales as a main language",3
 Sex,Female,0
 Sex,Male,1
